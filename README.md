@@ -1,6 +1,6 @@
 # Steam Market Analytics & Player Reception Dashboard
 
-![Dashboard Preview](Screenshot%202026-05-27%20223350.png)
+![Dashboard Preview](Steam Dashboard.png)
 
 ## Overview
 An interactive Business Intelligence dashboard engineered to analyze market trends, pricing structures, and player reception across the Steam digital storefront. This project processes multiple relational datasets to transform raw, semi-structured storefront data into actionable executive insights.
@@ -31,6 +31,6 @@ Developed calculated columns and measures to establish concrete KPIs:
 Designed the underlying architecture for a Microsoft Power Automate cloud flow to monitor Power BI dataset refresh triggers, conceptualizing an automated pipeline to dispatch updated KPI summary emails to stakeholders.
 
 ## How to View
-1. Download the `Steam_Dashboard.pbix` file.
+1. Download the `Steam Games Analysis.pbix` file.
 2. Open with Power BI Desktop.
 3. Refresh data connections if prompted.
