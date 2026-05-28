@@ -1,6 +1,6 @@
 # Steam Market Analytics & Player Reception Dashboard
 
-![Dashboard Preview](Steam Dashboard.png)
+![Dashboard Preview](Steam_Dashboard.png)
 
 ## Overview
 An interactive Business Intelligence dashboard engineered to analyze market trends, pricing structures, and player reception across the Steam digital storefront. This project processes multiple relational datasets to transform raw, semi-structured storefront data into actionable executive insights.
